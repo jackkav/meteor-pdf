@@ -10,6 +10,9 @@ RUN apt-get update \
                 libxrender1 \
                 xfonts-base \
                 xfonts-75dpi \
+                ttf-arphic-uming \
+                ttf-arphic-ukai \
+                ttf-wqy-zenhei \
                 pdftk \
                 openjdk-7-jre-headless \
                 graphicsmagick \
